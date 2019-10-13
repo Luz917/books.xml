@@ -1,0 +1,34 @@
+<table>
+<thead>
+ <tr>
+      <th>Title</th>
+      <th>Author(s)</th>
+      <th>Number of Pages</th>
+      <th>Publisher</th>
+      <th>ISBN</th>
+ </tr>
+</thead>
+<tbody>
+ <tr>
+      <td>The Hunger Games</td>
+      <td>Suzanne Collins</td>
+      <td>374</td>
+      <td>Scholastic Press</td>
+      <td>0439023483</td>
+ </tr>
+ <tr>
+      <td>Harry Potter and the Soccerer's Stone</td>
+      <td> J.K Rowling</td>
+      <td>322</td>
+      <td>Scholastic Inc</td>
+      <td>0439554934</td>
+ </tr>
+ <tr>
+      <td>Beautiful Creatures</td>
+      <td>Kami Garcia and Margaret Stohl</td>
+      <td>563</td>
+      <td>Little, Brown and Company</td>
+      <td>0316042676</td>
+ </tr>
+</tbody>
+</table>
