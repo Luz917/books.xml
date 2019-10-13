@@ -1,5 +1,5 @@
-<books>
-     <book id = "1">
+<fiction>
+     <book id = "Rowling">
                <Title>Harry Potter and the Soccerer's Stone</Title>
                <Author1>J.K Rowling</Author1>
                <Author2>Mary GrandPre(Illustrator)</Author2>
@@ -7,7 +7,7 @@
                <Publisher>Scholastic Inc</Publisher>
                <ISBN>0439554934</ISBN>
       </book>
-      <book id = "2">
+      <book id = "Garcia">
               <Title>Beautiful Creatures</Title>
               <Author1>Kami Garcia</Author1>
               <Author2>Margaret Stohl</Author2>
@@ -15,7 +15,7 @@
               <Publisher>Little, Brown and Company</Publisher>
               <ISBN>0316042676</ISBN>
        </book>
-       <book id= "3">
+       <book id= "Collins">
               <Title>The Hunger Games</Title>
               <Author1>Suzanne Collins</Author1>
               <Author2>None</Author2>
@@ -23,4 +23,4 @@
               <Publisher>Scholastic Press</Publisher>
               <ISBN>0439023483</ISBN>
         </book>
-</books>
+</fiction>
