@@ -1,5 +1,6 @@
-<table>
-   <tr>
+<?xml version="1.0"?>
+- <table>
+   - <tr>
         <th>Title</th>
         <th>Author 1</th>
         <th>Author 2</th>
@@ -8,7 +9,7 @@
         <th>ISBN</th>
  </tr>
 <tbody>
- <tr>
+ - <tr>
       <td>Harry Potter and the Soccerer's Stone</td>
       <td> J.K Rowling</td>
       <td>Mary GrandPre(Illustrator)
@@ -16,7 +17,7 @@
       <td>Scholastic Inc</td>
       <td>0439554934</td>
  </tr>
- <tr>
+ - <tr>
       <td>Beautiful Creatures</td>
       <td>Kami Garcia</td>
       <td>Margaret Stohl</td>
@@ -24,7 +25,7 @@
       <td>Little, Brown and Company</td>
       <td>0316042676</td>
  </tr>
- <tr>
+ - <tr>
       <td>The Hunger Games</td>
       <td>Suzanne Collins</td>
       <td>None</td>
