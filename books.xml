@@ -1,0 +1,36 @@
+<table>
+     <tr>
+          <th>Title</th>
+          <th>Author 1</th>
+          <th>Author 2</th>
+          <th>Pages</th>
+          <th>Publisher</th>
+          <th>ISBN</th>
+      </tr>
+      <tbody>
+          <tr>
+               <td>Harry Potter and the Soccerer's Stone</td>
+               <td>J.K Rowling</td>
+               <td>Mary GrandPre(Illustrator)</td>
+               <td>322</td>
+               <td>Scholastic Inc</td>
+               <td>0439554934</td>
+          </tr>
+           <tr>
+              <td>Beautiful Creatures</td>
+              <td>Kami Garcia</td>
+              <td>Margaret Stohl</td>
+              <td>563</td>
+              <td>Little, Brown and Company</td>
+              <td>0316042676</td>
+          </tr>
+          <tr>
+              <td>The Hunger Games</td>
+              <td>Suzanne Collins</td>
+              <td>None</td>
+              <td>374</td>
+              <td>Scholastic Press</td>
+              <td>0439023483</td>
+         </tr>
+      </tbody>
+</table>
